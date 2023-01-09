@@ -1,0 +1,6 @@
+Z:\proyecto ETS\Anexo1\Arrays\bin\Debug\Arrays.exe
+Z:\proyecto ETS\Anexo1\Arrays\bin\Debug\Arrays.pdb
+Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.exe
+Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,2 @@
+Z:\proyecto ETS\Anexo1\Anexo1\obj\Debug\AnexoI.csproj.AssemblyReference.cache
+Z:\proyecto ETS\Anexo1\Anexo1\obj\Debug\AnexoI.csproj.CoreCompileInputs.cache
