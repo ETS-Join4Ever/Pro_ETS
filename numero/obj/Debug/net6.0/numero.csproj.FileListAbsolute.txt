@@ -1,0 +1,15 @@
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\bin\Debug\net6.0\numero.exe
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\bin\Debug\net6.0\numero.deps.json
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\bin\Debug\net6.0\numero.runtimeconfig.json
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\bin\Debug\net6.0\numero.dll
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\bin\Debug\net6.0\ref\numero.dll
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\bin\Debug\net6.0\numero.pdb
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.csproj.AssemblyReference.cache
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.AssemblyInfoInputs.cache
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.AssemblyInfo.cs
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.csproj.CoreCompileInputs.cache
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.dll
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\ref\numero.dll
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.pdb
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\numero\obj\Debug\net6.0\numero.genruntimeconfig.cache
