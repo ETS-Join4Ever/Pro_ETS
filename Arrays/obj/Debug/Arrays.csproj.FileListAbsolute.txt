@@ -4,3 +4,9 @@ Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
 Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.exe
 Z:\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.pdb
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\Arrays\bin\Debug\Arrays.exe
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\Arrays\bin\Debug\Arrays.pdb
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.exe
+E:\DAWAA\pro\c#\proyecto ETS\Anexo1\Arrays\obj\Debug\Arrays.pdb
