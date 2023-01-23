@@ -1,0 +1,15 @@
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\bin\Debug\net6.0\Decimales.exe
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\bin\Debug\net6.0\Decimales.deps.json
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\bin\Debug\net6.0\Decimales.runtimeconfig.json
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\bin\Debug\net6.0\Decimales.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\bin\Debug\net6.0\Decimales.pdb
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.csproj.AssemblyReference.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.GeneratedMSBuildEditorConfig.editorconfig
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.AssemblyInfoInputs.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.AssemblyInfo.cs
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.csproj.CoreCompileInputs.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\refint\Decimales.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.pdb
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\Decimales.genruntimeconfig.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Decimales\obj\Debug\net6.0\ref\Decimales.dll

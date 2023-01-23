@@ -1,0 +1,15 @@
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\bin\Debug\net6.0\Numero.exe
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\bin\Debug\net6.0\Numero.deps.json
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\bin\Debug\net6.0\Numero.runtimeconfig.json
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\bin\Debug\net6.0\Numero.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\bin\Debug\net6.0\Numero.pdb
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.csproj.AssemblyReference.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.GeneratedMSBuildEditorConfig.editorconfig
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.AssemblyInfoInputs.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.AssemblyInfo.cs
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.csproj.CoreCompileInputs.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\refint\Numero.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.pdb
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\Numero.genruntimeconfig.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Numero\obj\Debug\net6.0\ref\Numero.dll

@@ -1,0 +1,15 @@
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\bin\Debug\net6.0\Array.exe
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\bin\Debug\net6.0\Array.deps.json
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\bin\Debug\net6.0\Array.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\bin\Debug\net6.0\Array.pdb
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\refint\Array.dll
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.pdb
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+Y:\ETS\proyecto ETS\Anexo1(Omega)\Anexo1\Array\obj\Debug\net6.0\ref\Array.dll
